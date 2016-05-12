@@ -1,0 +1,27 @@
+{
+  "name": "pongo",
+  "version": "0.0.0",
+  "authors": [
+    "Adria Rodriguez <adria_r_p_@hotmail.com>"
+  ],
+  "description": "pong made with go",
+  "keywords": [
+    "go",
+    "golang",
+    "pongo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.5",
+    "angular-cookies": "1.5.5",
+    "angular-ui-router": "0.2.18",
+    "restangular": "1.5.2"
+  }
+}
